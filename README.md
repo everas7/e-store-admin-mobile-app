@@ -1,6 +1,6 @@
 # Overview
 
-This is the backend for an e commerce built with node.js, apollo, graphql and firebase.
+This is an e-commerce adminmobile app built with react native.
 
 # Stack
 TODO
